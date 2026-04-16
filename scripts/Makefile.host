@@ -1,3 +1,4 @@
+HOSTCFLAGS += -fcommon
 # ==========================================================================
 # Building binaries on the host system
 # Binaries are used during the compilation of the kernel, for example
